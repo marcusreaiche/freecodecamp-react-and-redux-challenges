@@ -16,19 +16,18 @@ Click the links below to see the challenge and the provided solution.
 
 * [Extract State Logic to Redux Redux](https://www.freecodecamp.org/learn/front-end-libraries/react-and-redux/extract-state-logic-to-redux) - [My solution](./src/extract-state-logic-to-redux.txt)
 
-* [Use Provider to Connect Redux to React](https://www.freecodecamp.org/learn/front-end-libraries/react-and-redux/use-provider-to-connect-redux-to-react) - [My solution]()
+* [Use Provider to Connect Redux to React](https://www.freecodecamp.org/learn/front-end-libraries/react-and-redux/use-provider-to-connect-redux-to-react) - [My solution](./src/use-provider-to-connect-redux-to-react.txt)
 
-* [Map State to Props](https://www.freecodecamp.org/learn/front-end-libraries/react-and-redux/map-state-to-props) - [My solution]()
+* [Map State to Props](https://www.freecodecamp.org/learn/front-end-libraries/react-and-redux/map-state-to-props) - [My solution](./src/map-state-to-props.txt)
 
-* [Map Dispatch to Props](https://www.freecodecamp.org/learn/front-end-libraries/react-and-redux/map-dispatch-to-props) - [My solution]()
+* [Map Dispatch to Props](https://www.freecodecamp.org/learn/front-end-libraries/react-and-redux/map-dispatch-to-props) - [My solution](./src/map-dispatch-to-props.txt)
 
-* [Connect Redux to React](https://www.freecodecamp.org/learn/front-end-libraries/react-and-redux/connect-redux-to-react) - [My solution]()
+* [Connect Redux to React](https://www.freecodecamp.org/learn/front-end-libraries/react-and-redux/connect-redux-to-react) - [My solution](./src/connect-redux-to-react.txt)
 
-* [Connect Redux to the Messages App](https://www.freecodecamp.org/learn/front-end-libraries/react-and-redux/connect-redux-to-the-messages-app) - [My solution]()
+* [Connect Redux to the Messages App](https://www.freecodecamp.org/learn/front-end-libraries/react-and-redux/connect-redux-to-the-messages-app) - [My solution](./src/connect-redux-to-the-messages-app.txt)
 
-* [Extract Local State into Redux](https://www.freecodecamp.org/learn/front-end-libraries/react-and-redux/extract-local-state-into-redux) - [My solution]()
+* [Extract Local State into Redux](https://www.freecodecamp.org/learn/front-end-libraries/react-and-redux/extract-local-state-into-redux) - [My solution](./src/extract-local-state-into-redux.txt)
 
-* [Moving Forward From Here](https://www.freecodecamp.org/learn/front-end-libraries/react-and-redux/moving-forward-from-here) - [My solution]()
+* [Moving Forward From Here](https://www.freecodecamp.org/learn/front-end-libraries/react-and-redux/moving-forward-from-here) - [My solution](./src/moving-forward-from-here.txt)
 
 <hr />
-
