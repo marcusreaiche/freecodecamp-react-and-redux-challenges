@@ -1,15 +1,3 @@
-<head>
-  <script src="https://kit.fontawesome.com/ef01c9b403.js" crossorigin="anonymous"></script>
-  <style>
-    body {
-      background: #333;
-      max-width: 900px;
-      margin: 0 auto;
-    }
-  </style>
-</head>
-
-
 # Front End Libraries Certification - React and Redux
 
 ## Introduction to the React and Redux Challenges
